@@ -2,7 +2,7 @@
 /*   Subgradient method for Goods Reccomendation Problem             */
 /*                                                                   */
 /*   Programmed by Takahiro Kan <takahiro.kan@ist.osaka-u.ac.jp>     */
-/*   Date: 2016/11/15                                                */
+/*   Date: 2017/1/26                                                */
 /* ================================================================= */
 
 /* including files ------------------------------------------------- */
